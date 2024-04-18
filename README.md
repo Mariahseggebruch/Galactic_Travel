@@ -130,7 +130,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/akos29/Space-Travelers-Hub.git
+  git clone https://github.com/Jamie897/Galactic_Travel.git
 ```
 -
 
