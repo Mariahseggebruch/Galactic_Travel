@@ -190,19 +190,11 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Kibrewossen Yitbarek**
+👤 **Kaylene Kilbourne**
 
-- GitHub: [akos](https://github.com/akos29)
-- Twitter: [kbson49](https://twitter.com/Kbson49)
-- LinkedIn: [Kibrewossen](https://www.linkedin.com/in/kibrewossen-yitbarek-bb587a18/)
+👤 **Mariah Seggebruchh**
 
-👤 **Patrick Ndimukulaga**
-
-
-
-- GitHub: @Kirabo19
-- Twitter: @ndimuku
-- LinkedIn: LinkedIn
+👤 **Jamie Toman**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
